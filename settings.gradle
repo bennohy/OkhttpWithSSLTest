@@ -1,0 +1,2 @@
+rootProject.name = "OkHttpWithSSLTest"
+include ':app'
